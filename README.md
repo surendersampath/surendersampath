@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surendersampath
 - 👀 I’m interested in in IoT and Device related tech.
-- 🌱 I’m currently learning security and leverage of AWS IoT.
+- 🌱 I’m currently emergeing trends in Embedded Engineering and leverage on AWS IoT.
 - 💞️ I’m looking to collaborate on AWS IoT projects.
 
 <!---
